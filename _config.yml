@@ -1,14 +1,29 @@
+name: Henry Gordon-Smith
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.1021277
+title: Henry Gordon-Smith
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-41984421-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2070743
-  lightness: 0.6589999
-  brandStrength: 1
   brandColors:
     - '#0E0C15'
     - '#C6FFFF'
     - '#2FE2E8'
     - '#E980FF'
     - '#B2A430'
+  brandStrength: 1
+  lightness: 0.6589999
+  saturation: 0.2070743
   rhythmicContrast: 0.4695866
-name: Henry Gordon-Smith
+purpose: []
